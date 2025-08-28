@@ -6,7 +6,7 @@ discord_id: "914533527490547733"
 timestamp: "2025-08-28"
 
 ## Developer
-Name: To Be Filled
+Name: Huynh Tuan Duc
 GitHub: @TopDev8831
 Discord: htducadp314
 Experience: Web3 developer with interest in social applications and zk integration.
